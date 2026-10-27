@@ -50,7 +50,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ```
-<!-- portfolio-dark-purple.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
